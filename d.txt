@@ -1,2 +1,4 @@
-This is file d from my computer...
+This is file d from my computer..
 This is the second line from my computer.
+this is inside git.
+
